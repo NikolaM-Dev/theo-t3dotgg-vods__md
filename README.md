@@ -1,9 +1,7 @@
 # 🟪👱‍♂🤳 Theo - t3․gg VODS
 
-> [!IMPORTANT] Theo's YouTube Channel
-> 🔴 [Theo - t3․gg](https://www.youtube.com/@t3dotgg/featured)
-
-> YYYY-MM-DD, Date descending
+> [!IMPORTANT]
+> [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
 - _2025-07-12_ [Kimi K2 is a groundbreaking open weight model](https://www.youtube.com/watch?v=lEv3jZswHgc)
 - _2025-07-09_ [Vercel moved to Vue and Cursor drama...](https://www.youtube.com/watch?v=ycj9OAru9nk)
