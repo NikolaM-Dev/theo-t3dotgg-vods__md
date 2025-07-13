@@ -1,4 +1,7 @@
-# Theo - t3․gg VODS
+# 🟪👱‍♂🤳 Theo - t3․gg VODS
+
+> [!IMPORTANT] Theo's YouTube Channel
+> 🔴 [Theo - t3․gg](https://www.youtube.com/@t3dotgg/featured)
 
 > YYYY-MM-DD, Date descending
 
