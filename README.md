@@ -4,7 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
-- _2025-07-23_ [Is Qwen good now?](https://www.youtube.com/watch?v=bcszgDwDNN8)
+- _2025-07-23_ [ White House AI Plan? Amazon IDE?? New Qwen??? So much to talk about ](https://www.youtube.com/watch?v=bcszgDwDNN8)
 - _2025-07-12_ [Kimi K2 is a groundbreaking open weight model](https://www.youtube.com/watch?v=lEv3jZswHgc)
 - _2025-07-09_ [Vercel moved to Vue and Cursor drama...](https://www.youtube.com/watch?v=ycj9OAru9nk)
 - _2025-07-02_ [Postgres is finally fast](https://www.youtube.com/live/8PFCZjMUHOg)
