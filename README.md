@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-07-27_ [(2) Github's new vibe coder + new Qwen models? SUNDAY STREAM LET'S GO](https://www.youtube.com/watch?v=6GZs1SB0J4g)
 - _2025-07-23_ [ White House AI Plan? Amazon IDE?? New Qwen??? So much to talk about ](https://www.youtube.com/watch?v=bcszgDwDNN8)
 - _2025-07-12_ [Kimi K2 is a groundbreaking open weight model](https://www.youtube.com/watch?v=lEv3jZswHgc)
 - _2025-07-09_ [Vercel moved to Vue and Cursor drama...](https://www.youtube.com/watch?v=ycj9OAru9nk)
