@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-08-03_ [Sunday stream! Talking anthropic, horizon and more](https://www.youtube.com/watch?v=fv7kENxNrX8)
 - _2025-07-30_ [Even more open models???](https://www.youtube.com/watch?v=X-7VzO6K4nA)
 - _2025-07-27_ [(2) Github's new vibe coder + new Qwen models? SUNDAY STREAM LET'S GO](https://www.youtube.com/watch?v=6GZs1SB0J4g)
 - _2025-07-23_ [ White House AI Plan? Amazon IDE?? New Qwen??? So much to talk about ](https://www.youtube.com/watch?v=bcszgDwDNN8)
