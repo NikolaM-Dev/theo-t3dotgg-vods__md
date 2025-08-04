@@ -6,8 +6,8 @@
 
 - _2025-08-03_ [Sunday stream! Talking anthropic, horizon and more](https://www.youtube.com/watch?v=fv7kENxNrX8)
 - _2025-07-30_ [Even more open models???](https://www.youtube.com/watch?v=X-7VzO6K4nA)
-- _2025-07-27_ [(2) Github's new vibe coder + new Qwen models? SUNDAY STREAM LET'S GO](https://www.youtube.com/watch?v=6GZs1SB0J4g)
-- _2025-07-23_ [ White House AI Plan? Amazon IDE?? New Qwen??? So much to talk about ](https://www.youtube.com/watch?v=bcszgDwDNN8)
+- _2025-07-27_ [Github's new vibe coder + new Qwen models? SUNDAY STREAM LET'S GO](https://www.youtube.com/watch?v=6GZs1SB0J4g)
+- _2025-07-23_ [White House AI Plan? Amazon IDE?? New Qwen??? So much to talk about ](https://www.youtube.com/watch?v=bcszgDwDNN8)
 - _2025-07-12_ [Kimi K2 is a groundbreaking open weight model](https://www.youtube.com/watch?v=lEv3jZswHgc)
 - _2025-07-09_ [Vercel moved to Vue and Cursor drama...](https://www.youtube.com/watch?v=ycj9OAru9nk)
 - _2025-07-02_ [Postgres is finally fast](https://www.youtube.com/live/8PFCZjMUHOg)
