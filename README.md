@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-09-03_ [Learning to code with one hand...](https://www.youtube.com/watch?v=I2N9ISs10iQ)
 - _2025-08-27_ [A new git killer by Zed? Oh boy...](https://www.youtube.com/watch?v=fFhzS4UlY3U)
 - _2025-08-20_ [There's more stealth models and they're weird...](https://www.youtube.com/watch?v=kUe7YYnU-GM)
 - _2025-08-14_ [let’s talk about gpt-5...](https://www.youtube.com/watch?v=5d0yyn9PZdM)
