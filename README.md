@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-09-24_ [I'm sure something will drop today...](https://www.youtube.com/watch?v=isw5pWGa14s)
 - _2025-09-20_ [Cloudflare had an outage because of useEffect?!?!](https://www.youtube.com/watch?v=OYa8Yfkq_uo)
 - _2025-09-10_ [npm got hacked...](https://www.youtube.com/watch?v=hatDMPuta7I)
 - _2025-09-03_ [Learning to code with one hand...](https://www.youtube.com/watch?v=I2N9ISs10iQ)
