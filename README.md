@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-10-01_ [At least one of these new models is underrated...](https://www.youtube.com/watch?v=rQYursX0GEk)
 - _2025-09-24_ [I'm sure something will drop today...](https://www.youtube.com/watch?v=isw5pWGa14s)
 - _2025-09-20_ [Cloudflare had an outage because of useEffect?!?!](https://www.youtube.com/watch?v=OYa8Yfkq_uo)
 - _2025-09-10_ [npm got hacked...](https://www.youtube.com/watch?v=hatDMPuta7I)
