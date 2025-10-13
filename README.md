@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-10-12_ [Finally talking about React Conf](https://www.youtube.com/watch?v=1VdJwU93XWQ)
 - _2025-10-10_ [Talking about React Conf and OpenAI DevDay…](https://www.youtube.com/watch?v=Ts90XY7-Msw)
 - _2025-10-01_ [At least one of these new models is underrated...](https://www.youtube.com/watch?v=rQYursX0GEk)
 - _2025-09-24_ [I'm sure something will drop today...](https://www.youtube.com/watch?v=isw5pWGa14s)
