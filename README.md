@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-10-21_ [US-East-1 Went Down and OpenAI Dropped a Browser???](https://www.youtube.com/watch?v=XNG0VtXI4tU)
 - _2025-10-15_ [I Accidentally Fixed Cloudflare and Firefox???](https://www.youtube.com/watch?v=gzPuzvPlsb4)
 - _2025-10-12_ [Finally talking about React Conf](https://www.youtube.com/watch?v=1VdJwU93XWQ)
 - _2025-10-10_ [Talking about React Conf and OpenAI DevDay…](https://www.youtube.com/watch?v=Ts90XY7-Msw)
