@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-11-05_ [PewDiePie is Right About AI...](https://www.youtube.com/watch?v=DaUPO7CWZJM)
 - _2025-10-25_ ["use stream"](https://www.youtube.com/watch?v=JFJDn0WjVNM)
 - _2025-10-21_ [US-East-1 Went Down and OpenAI Dropped a Browser???](https://www.youtube.com/watch?v=XNG0VtXI4tU)
 - _2025-10-15_ [I Accidentally Fixed Cloudflare and Firefox???](https://www.youtube.com/watch?v=gzPuzvPlsb4)
