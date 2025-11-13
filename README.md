@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-11-12_ [GPT-5.1 just dropped...](https://www.youtube.com/watch?v=B43nBXBw1vo)
 - _2025-11-10_ [Is Today Finally the Day???](https://www.youtube.com/live/hsQvfMRGDfc)
 - _2025-11-05_ [PewDiePie is Right About AI...](https://www.youtube.com/watch?v=DaUPO7CWZJM)
 - _2025-10-25_ ["use stream"](https://www.youtube.com/watch?v=JFJDn0WjVNM)
