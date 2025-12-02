@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-12-02_ [Anthropic Just Bought Bun?!?!?](https://www.youtube.com/watch?v=1z5uuVyo9CY)
 - _2025-11-26_ [I've made up my mind.](https://www.youtube.com/watch?v=Rhc6jKQTF4M)
 - _2025-11-25_ [The model wars continue (do we even have jobs anymore??)](https://www.youtube.com/watch?v=--wsjXaoTR4)
 - _2025-11-12_ [GPT-5.1 just dropped...](https://www.youtube.com/watch?v=B43nBXBw1vo)
