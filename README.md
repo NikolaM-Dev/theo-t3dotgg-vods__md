@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2025-12-13_ [I'm not liking 5.2 that much...](https://www.youtube.com/watch?v=7OlfVFT5zV4)
 - _2025-12-10_ [Linux adopts Rust... and MCP?](https://www.youtube.com/watch?v=ffMPsuXsFUg)
 - _2025-12-07_ [So I moved off of Next.js...](https://www.youtube.com/watch?v=1Y5z8a3RHO4)
 - _2025-12-02_ [Anthropic Just Bought Bun?!?!?](https://www.youtube.com/watch?v=1z5uuVyo9CY)
