@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-01-01_ [2025 is over, let's talk about everything that happened](https://www.youtube.com/watch?v=WyO8F4WfhDk)
 - _2025-12-23_ [These new models are so good that I'm streaming during christmas break](https://www.youtube.com/watch?v=VR4A-hB03qw)
 - _2025-12-17_ [Gemini Flash 3 is absurdly good](https://www.youtube.com/watch?v=jhNihzkm6rg)
 - _2025-12-13_ [I'm not liking 5.2 that much...](https://www.youtube.com/watch?v=7OlfVFT5zV4)
