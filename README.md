@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-01-13_ [So What Do We Do Now?](https://www.youtube.com/watch?v=5wFa2rcQXnw)
 - _2026-01-09_ [Anthropic is cracking down on Claude Code subscribers](https://www.youtube.com/watch?v=r1t3yhQMV4E)
 - _2026-01-01_ [2025 is over, let's talk about everything that happened](https://www.youtube.com/watch?v=WyO8F4WfhDk)
 - _2025-12-23_ [These new models are so good that I'm streaming during christmas break](https://www.youtube.com/watch?v=VR4A-hB03qw)
