@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-01-24_ [What happens if I let the AI take over?](https://www.youtube.com/watch?v=MmUHoQquM8k)
 - _2026-01-18_ [NVIDIA is in for a rough time...](https://www.youtube.com/watch?v=4fjX3fByoH8)
 - _2026-01-15_ [Ralph.](https://www.youtube.com/watch?v=x6GiUSL0W-Y)
 - _2026-01-13_ [So What Do We Do Now?](https://www.youtube.com/watch?v=5wFa2rcQXnw)
