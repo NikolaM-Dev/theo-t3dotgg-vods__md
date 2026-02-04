@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-02-04_ [Sonnet 5?](https://www.youtube.com/watch?v=SQsCOed2LSk)
 - _2026-01-30_ [VS Code got hacked again, Apple is falling apart, Moltbook is wild and more](https://www.youtube.com/watch?v=-jsf8nd6Zd4)
 - _2026-01-28_ [Kimi k2.5 is wild](https://www.youtube.com/watch?v=k-Q2YDI61pw)
 - _2026-01-24_ [What happens if I let the AI take over?](https://www.youtube.com/watch?v=MmUHoQquM8k)
