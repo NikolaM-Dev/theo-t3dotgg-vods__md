@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-02-16_ [EMERGENCY STREAM](https://www.youtube.com/watch?v=n4nir-wVN2I)
 _ _2026-02-11_ [Holy sh*t, glm-5 is nuts](https://www.youtube.com/watch?v=NiaQ2v0d9tg)
 - _2026-02-04_ [Sonnet 5?](https://www.youtube.com/watch?v=SQsCOed2LSk)
 - _2026-01-30_ [VS Code got hacked again, Apple is falling apart, Moltbook is wild and more](https://www.youtube.com/watch?v=-jsf8nd6Zd4)
