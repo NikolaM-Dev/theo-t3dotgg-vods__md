@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-02-26_ [Nano Banana 2, Anthropic vs USA, ChatGPT got 30% faster, and everything else I missed](https://www.youtube.com/watch?v=9dDgUc7CjiE)
 - _2026-02-22_ [I Made a New Thing](https://www.youtube.com/watch?v=_NrH0VW81sw)
 - _2026-02-18_ [Sonnet 4.6 I Guess](https://www.youtube.com/watch?v=1r3jS04sbwU)
 - _2026-02-15_ [EMERGENCY STREAM](https://www.youtube.com/watch?v=n4nir-wVN2I)
