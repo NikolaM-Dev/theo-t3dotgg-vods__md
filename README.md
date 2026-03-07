@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-03-06_ [Launch day...](https://www.youtube.com/watch?v=g08zB3nWDN8)
 - _2026-03-04_ [OpenAI uses Elixir + Coding CLI showdown](https://www.youtube.com/watch?v=TQwLsLbOuFo)
 - _2026-02-26_ [Nano Banana 2, Anthropic vs USA, ChatGPT got 30% faster, and everything else I missed](https://www.youtube.com/watch?v=9dDgUc7CjiE)
 - _2026-02-22_ [I Made a New Thing](https://www.youtube.com/watch?v=_NrH0VW81sw)
