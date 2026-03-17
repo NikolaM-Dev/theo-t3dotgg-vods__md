@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-03-16_ [Mom and dad are fighting again...](https://www.youtube.com/watch?v=pJ9pClBZ4lY)
 - _2026-03-11_ [I wrote some code by hand, it was rough...](https://www.youtube.com/watch?v=PsrLGvjvMZ4)
 - _2026-03-06_ [Launch day...](https://www.youtube.com/watch?v=g08zB3nWDN8)
 - _2026-03-04_ [OpenAI uses Elixir + Coding CLI showdown](https://www.youtube.com/watch?v=TQwLsLbOuFo)
