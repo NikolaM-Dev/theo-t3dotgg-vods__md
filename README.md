@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-03-21_ [Fine, I'll talk about the cursor drama](https://www.youtube.com/watch?v=nsqGI1VAYbU)
 - _2026-03-16_ [Mom and dad are fighting again...](https://www.youtube.com/watch?v=pJ9pClBZ4lY)
 - _2026-03-11_ [I wrote some code by hand, it was rough...](https://www.youtube.com/watch?v=PsrLGvjvMZ4)
 - _2026-03-06_ [Launch day...](https://www.youtube.com/watch?v=g08zB3nWDN8)
