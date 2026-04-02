@@ -5,6 +5,7 @@
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
 
+- _2026-04-01_ [I got DMCA'd by Anthropic...](https://www.youtube.com/watch?v=YMceahj69nI)
 - _2026-03-31_ [It's my birthday and Claude Code's source code leaked](https://www.youtube.com/watch?v=5qA0HessLi4)
 - _2026-03-29_ [I really miss coding.](https://www.youtube.com/watch?v=nDU7Mn-XRWI)
 - _2026-03-25_ [I'm mad at OpenAI right now](https://www.youtube.com/watch?v=j1YOVwviBLs)
