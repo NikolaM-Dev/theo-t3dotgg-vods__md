@@ -5,6 +5,7 @@
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
 
+- _2026-04-15_ [They've been teasing this for months... (TRYING AGAIN WISH ME LUCK)](https://www.youtube.com/watch?v=PzROd-AAogY)
 - _2026-04-08_ [I'm scared guys](https://www.youtube.com/watch?v=yJXXeSL3A4M)
 - _2026-04-05_ [I'm so annoyed.](https://www.youtube.com/watch?v=035337Nw1bY)
 - _2026-04-01_ [I got DMCA'd by Anthropic...](https://www.youtube.com/watch?v=YMceahj69nI)
