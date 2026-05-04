@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-05-03_ [Life after GitHub](https://www.youtube.com/watch?v=Hy-tQlk5RTU)
 - _2026-04-29_ [Is GitHub going to die now?](https://www.youtube.com/watch?v=QJGBypJdLS8)
 - _2026-04-17_ [Claude Design, Claude Regressions, Claude Code?](https://www.youtube.com/watch?v=Jk0CfaUdtU4)
 - _2026-04-15_ [They've been teasing this for months... (TRYING AGAIN WISH ME LUCK)](https://www.youtube.com/watch?v=PzROd-AAogY)
@@ -22,7 +23,7 @@
 - _2026-02-22_ [I Made a New Thing](https://www.youtube.com/watch?v=_NrH0VW81sw)
 - _2026-02-18_ [Sonnet 4.6 I Guess](https://www.youtube.com/watch?v=1r3jS04sbwU)
 - _2026-02-15_ [EMERGENCY STREAM](https://www.youtube.com/watch?v=n4nir-wVN2I)
-_ _2026-02-11_ [Holy sh*t, glm-5 is nuts](https://www.youtube.com/watch?v=NiaQ2v0d9tg)
+- _2026-02-11_ [Holy sh*t, glm-5 is nuts](https://www.youtube.com/watch?v=NiaQ2v0d9tg)
 - _2026-02-04_ [Sonnet 5?](https://www.youtube.com/watch?v=SQsCOed2LSk)
 - _2026-01-30_ [VS Code got hacked again, Apple is falling apart, Moltbook is wild and more](https://www.youtube.com/watch?v=-jsf8nd6Zd4)
 - _2026-01-28_ [Kimi k2.5 is wild](https://www.youtube.com/watch?v=k-Q2YDI61pw)
