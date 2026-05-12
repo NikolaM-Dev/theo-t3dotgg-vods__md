@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-05-11_ [My security psychosis is getting way worse](https://www.youtube.com/watch?v=p5PPvcusNEc)
 - _2026-05-06_ [I didn't see this one coming...](https://www.youtube.com/watch?v=L0eorffs-1k)
 - _2026-05-03_ [Life after GitHub](https://www.youtube.com/watch?v=Hy-tQlk5RTU)
 - _2026-04-29_ [Is GitHub going to die now?](https://www.youtube.com/watch?v=QJGBypJdLS8)
