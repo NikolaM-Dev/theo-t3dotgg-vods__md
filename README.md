@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-05-24_ [I've been pretty busy lately](https://www.youtube.com/watch?v=-aHbsVnjYIk)
 - _2026-05-20_ [Github pwn'd, Karpathy + Anthropic, Cursor drops Composer 2.5, Codex App goes mobile...](https://www.youtube.com/watch?v=P8ik9VdNZIU)
 - _2026-05-13_ [Anthropic finally responds...](https://www.youtube.com/watch?v=3vJ7vDkQLQo)
 - _2026-05-11_ [My security psychosis is getting way worse](https://www.youtube.com/watch?v=p5PPvcusNEc)
@@ -27,7 +28,7 @@
 - _2026-02-22_ [I Made a New Thing](https://www.youtube.com/watch?v=_NrH0VW81sw)
 - _2026-02-18_ [Sonnet 4.6 I Guess](https://www.youtube.com/watch?v=1r3jS04sbwU)
 - _2026-02-15_ [EMERGENCY STREAM](https://www.youtube.com/watch?v=n4nir-wVN2I)
-- _2026-02-11_ [Holy sh*t, glm-5 is nuts](https://www.youtube.com/watch?v=NiaQ2v0d9tg)
+- _2026-02-11_ [Holy sh\*t, glm-5 is nuts](https://www.youtube.com/watch?v=NiaQ2v0d9tg)
 - _2026-02-04_ [Sonnet 5?](https://www.youtube.com/watch?v=SQsCOed2LSk)
 - _2026-01-30_ [VS Code got hacked again, Apple is falling apart, Moltbook is wild and more](https://www.youtube.com/watch?v=-jsf8nd6Zd4)
 - _2026-01-28_ [Kimi k2.5 is wild](https://www.youtube.com/watch?v=k-Q2YDI61pw)
