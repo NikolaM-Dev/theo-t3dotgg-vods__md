@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-06-05_ [Sups nerds](https://www.youtube.com/watch?v=XxKdZcdn1AM)
 - _2026-05-27_ [I am way too hyped about this benchmark](https://www.youtube.com/watch?v=QuIvz1sPTsY)
 - _2026-05-24_ [I've been pretty busy lately](https://www.youtube.com/watch?v=-aHbsVnjYIk)
 - _2026-05-20_ [Github pwn'd, Karpathy + Anthropic, Cursor drops Composer 2.5, Codex App goes mobile...](https://www.youtube.com/watch?v=P8ik9VdNZIU)
