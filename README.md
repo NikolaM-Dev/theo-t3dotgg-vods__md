@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-06-17_ [Day 5 of no Fable access...](https://www.youtube.com/watch?v=Qb6rB-7eEAE)
 - _2026-06-12_ [FABLE AND MYTHOS JUST GOT BANNED](https://www.youtube.com/watch?v=-YpMf9L7qEk)
 - _2026-06-05_ [Sups nerds](https://www.youtube.com/watch?v=XxKdZcdn1AM)
 - _2026-05-27_ [I am way too hyped about this benchmark](https://www.youtube.com/watch?v=QuIvz1sPTsY)
