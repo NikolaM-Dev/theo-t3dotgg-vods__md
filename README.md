@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-06-29_ [I think it's finally time.](https://www.youtube.com/watch?v=mbCRFAgH1bA)
 - _2026-06-24_ [I have a lot of feelings about macOS right now](https://www.youtube.com/watch?v=mHlobQ2x6_Q)
 - _2026-06-17_ [Day 5 of no Fable access...](https://www.youtube.com/watch?v=Qb6rB-7eEAE)
 - _2026-06-12_ [FABLE AND MYTHOS JUST GOT BANNED](https://www.youtube.com/watch?v=-YpMf9L7qEk)
