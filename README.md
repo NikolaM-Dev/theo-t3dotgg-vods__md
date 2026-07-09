@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-07-09_ [It's FINALLY here!!!](https://www.youtube.com/watch?v=BxxQX6G6BTU)
 - _2026-07-05_ [I'm about to make a lot of people angry...](https://www.youtube.com/watch?v=PWAkNx5UueM)
 - _2026-06-28_ [I think it's finally time.](https://www.youtube.com/watch?v=mbCRFAgH1bA)
 - _2026-06-24_ [I have a lot of feelings about macOS right now](https://www.youtube.com/watch?v=mHlobQ2x6_Q)
