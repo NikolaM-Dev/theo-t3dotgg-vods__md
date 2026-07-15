@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-07-15_ [I'm just as surprised as you.](https://www.youtube.com/watch?v=-naUpl-4two)
 - _2026-07-12_ [I'm annoyed about how good this is...](https://www.youtube.com/watch?v=EIcUrQw7Kag)
 - _2026-07-09_ [It's FINALLY here!!!](https://www.youtube.com/watch?v=BxxQX6G6BTU)
 - _2026-07-05_ [I'm about to make a lot of people angry...](https://www.youtube.com/watch?v=PWAkNx5UueM)
