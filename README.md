@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-08-12_ [Intelligence just got way cheaper](https://www.youtube.com/watch?v=xa1iOmsdrPs)
 - _2026-08-05_ [Claude is affecting my sleep](https://www.youtube.com/watch?v=RvtVuNo650c)
 - _2026-07-29_ [Big launch today :)](https://www.youtube.com/watch?v=x_xJMlt_2Hc)
 - _2026-07-22_ [We've been cooking](https://www.youtube.com/watch?v=9y8_QYiC9AM)
