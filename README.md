@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-08-26_ [Holy sh*t this model is good](https://www.youtube.com/watch?v=at53hgmi6L0)
 - _2026-08-19_ [Will we ever get a frontier model again?](https://www.youtube.com/watch?v=l38UNgI13GE)
 - _2026-08-12_ [Intelligence just got way cheaper](https://www.youtube.com/watch?v=xa1iOmsdrPs)
 - _2026-08-05_ [Claude is affecting my sleep](https://www.youtube.com/watch?v=RvtVuNo650c)
