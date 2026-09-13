@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-09-11_ [I'm having a rough time with Astra](https://www.youtube.com/watch?v=mrE4dcqGvVk)
 - _2026-09-07_ [Which are you gonna pick?](https://www.youtube.com/watch?v=J5l8UqbmQPU)
 - _2026-08-26_ [Holy sh*t this model is good](https://www.youtube.com/watch?v=at53hgmi6L0)
 - _2026-08-19_ [Will we ever get a frontier model again?](https://www.youtube.com/watch?v=l38UNgI13GE)
