@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-10-07_ [I finally did it.](https://www.youtube.com/watch?v=o4-29oLHU8E)
 - _2026-10-04_ [I think I have a problem](https://www.youtube.com/watch?v=kt_2wFglK3c)
 - _2026-09-23_ [Opus 5.5, GPT-6 Sol, GPT-6 Luna, MiMo v2.6, Grok 4.7....](https://www.youtube.com/watch?v=2qNX30hTyDg)
 - _2026-09-18_ [The first "typesafe" model?? Let's talk about Jev](https://www.youtube.com/watch?v=6wmDUgR5zlE)
