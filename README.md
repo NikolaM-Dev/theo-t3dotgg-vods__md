@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-10-21_ [I'm getting impatient...](https://www.youtube.com/watch?v=v4OMMTRsD5g)
 - _2026-10-14_ [So my workflow has changed a lot...](https://www.youtube.com/watch?v=SY_woOjzlW4)
 - _2026-10-07_ [I finally did it.](https://www.youtube.com/watch?v=o4-29oLHU8E)
 - _2026-10-04_ [I think I have a problem](https://www.youtube.com/watch?v=kt_2wFglK3c)
