@@ -4,6 +4,7 @@
 >
 > [🔴 Theo - t3․gg YouTube Channel](https://www.youtube.com/@t3dotgg)
 
+- _2026-11-12_ [It's too hard to pick](https://www.youtube.com/watch?v=WocUgaXJ0Bg)
 - _2026-11-04_ [I've been thinking a lot lately...](https://www.youtube.com/watch?v=t5NiyP7toYw)
 - _2026-10-25_ [I shipped a lot and learned even more :)](https://www.youtube.com/watch?v=nc442naX8vo)
 - _2026-10-21_ [I'm getting impatient...](https://www.youtube.com/watch?v=v4OMMTRsD5g)
